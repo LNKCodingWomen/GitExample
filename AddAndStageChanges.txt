@@ -1,0 +1,5 @@
+On your local machine, create files in the repository folder as you normally would.
+
+In SourceTree, you'll see these new files show up as unstaged changes (see Unstaged Changes.png). You can also use the 'git status' command to see the status of your local repository. You will need to add these files to your index in order to commit and push. To do this, check the checkbox next to each file. The files will move to the staged changes section (see Staged Changes.png).
+
+This is equivalent to the 'git add' command.

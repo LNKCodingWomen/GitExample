@@ -1,0 +1,3 @@
+Making commits on your local repository is a way to take a snapshot of your staged changes at a certain point. To do this, hit the Commit button, add a message in the text field and select commit (see Commit Message.png). The changes are now ready to push.
+
+This is equivalent to the 'git commit -m' command.

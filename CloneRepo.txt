@@ -1,9 +1,9 @@
 If you used GitHub to setup your repository and chose to initialize the project with a README, you can now clone your repository to your local machine.
 
-If you're creating a repository on your local machine, you'll need to check out how to use the git init command.
+If you're creating a repository on your local machine, you'll need to check out how to use the 'git init' command.
 
 In SourceTree, control+N or File -> New/Clone brings up the view seen in Clone Repo.png.
 
 Add the url to your GitHub repo to the Source Path / URL field and choose the path to save to on your machine. Then give the repo bookmark a name.
 
-Select Clone. Voila.
+Select Clone. Voila. This is equivalent to the 'git clone' command.

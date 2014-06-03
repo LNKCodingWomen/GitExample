@@ -1,0 +1,5 @@
+Once you've committed your changes, you'll see changes ready to push (see Changes Ready to Push.png).
+
+The push changes sheet that appears after hitting the Push button allows you to select which branches to push. Once you select OK, your local changes will be available on the remote repository for other people to pull.
+
+This is equivalent to the 'git push' command
