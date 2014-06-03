@@ -1,0 +1,35 @@
+There are plenty of other Git features I won't go into today, but here's a brief overview of some, as well as some useful links to learn more.
+
+Patches
+	You can represent a bunch of changes in a single .diff file called a patch. If you apply a patch on your local copy, you'll get all of the changes made to the various files included in the patch. This is useful for passing changes between developers or computers.
+	
+	http://git-scm.com/docs/git-format-patch (command line)
+	Right click on a commit, "Create Patch..." (SourceTree)
+	Actions -> Create Patch.../Apply Patch... (SourceTree)
+
+Stashes
+	Oftentimes, when you have a lot of local changes, you'll want to pull new changes from origin or switch to other branches (more on that in a second). Most of the time Git will complain if you have uncommitted changes in your local copy and you try to do any of those things because it can't figure out how resolve conflicts. If you're not ready to commit, you can stash all your change. This just holds all our local changes off to the side for awhile and gives you a clean working copy. If you're ready to reapply those changes, you can apply your stash again and all your changes come back.
+	
+	http://git-scm.com/book/en/Git-Tools-Stashing (command line)
+	Stash toolbar item or Repository -> Stash Changes... (SourceTree)
+
+Tags
+	Tags in mark are typically used to mark specifica points in history, like release points (i.e. Version 1.0, etc).
+	
+	http://git-scm.com/book/en/Git-Basics-Tagging (command line)
+	Tag toolbar item or Repository -> Tag... (SourceTree)
+
+Branches
+	"Branching means you diverge from the main line of development and continue to do work without messing with that main line. (http://git-scm.com/book/en/Git-Branching)"
+
+Checkout
+
+Merging
+
+Cherry Pick
+
+Rebasing
+	You can explore this one on your own... 
+	http://git-scm.com/book/en/Git-Branching-Rebasing
+
+Fetching
