@@ -1,0 +1,4 @@
+https://try.github.io
+https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+http://git-scm.com
+http://www.sourcetreeapp.com
